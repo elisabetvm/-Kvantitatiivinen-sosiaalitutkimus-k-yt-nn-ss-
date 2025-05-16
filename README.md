@@ -1,10 +1,11 @@
 # -Kvantitatiivinen-sosiaalitutkimus-k-yt-nn-ss-
 Kurssin lopputyö  Kvantitatiivinen sosiaalitutkimus käytännössä, Lähiopetus 
+Helsingin Yliopisto
 
 Vastuuopettajat:
 
-Niina Metsä-Simola (niina.metsa-simola@helsinki.fi)
-Joonas Pitkänen (joonas.pitkanen@helsinki.fi)
+Niina Metsä-Simola 
+Joonas Pitkänen 
 
 Osaamistavoitteet
  
